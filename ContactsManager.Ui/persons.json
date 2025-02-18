@@ -1,0 +1,26 @@
+﻿[
+  {
+    "PersonId": "c03bbe45-9aeb-4d24-99e0-4743016ffce9",
+    "PersonName": "Marguerite Example",
+    "Email": "example@people.com",
+    "DateOfBirth": "1989-08-28",
+    "Gender": "Female",
+    "CountryId": "56bf46a4-02b8-4693-a0f5-0a95e2218bdc",
+    "Address": "Parkside 54",
+    "ReceiveNewsLetters": false,
+    "TaxIdentificationNumber": "156950492"
+  },
+  {
+    "PersonId": "c3abddbd-cf50-41d2-b6c4-cc7d5a750928",
+    "PersonName": "Ursa Example",
+    "Email": "example@globo.com",
+    "DateOfBirth": "1990-10-05",
+    "Gender": "Female",
+    "CountryId": "1705D418-6B17-482D-ABD6-2BF3B2ECE5A4",
+    "Address": "6 Morningstar Circle",
+    "ReceiveNewsLetters": false,
+    "TaxIdentificationNumber": "156950491"
+
+  }
+]
+  

@@ -1,0 +1,150 @@
+﻿[
+  {
+    "CountryId": "14629847-905a-4a0e-9abe-80b61655c5cb",
+    "CountryName": "Argentina"
+  },
+  {
+    "CountryId": "56bf46a4-02b8-4693-a0f5-0a95e2218bdc",
+    "CountryName": "Austria"
+  },
+  {
+    "CountryId": "12e15727-d369-49a9-8b13-bc22e9362179",
+    "CountryName": "Belgium"
+  },
+  {
+    "CountryId": "8f30bedc-47dd-4286-8950-73d8a68e5d41",
+    "CountryName": "Brazil"
+  },
+  {
+    "CountryId": "501c6d33-1bbe-45f1-8fbd-2275913c6218",
+    "CountryName": "Bulgaria"
+  },
+  {
+    "CountryId": "1C6A6C34-2E1C-4CD5-BB2D-502FBD035E25",
+    "CountryName": "China"
+  },
+  {
+    "CountryId": "1ADC9579-D0E4-484F-9EE9-73BF4BB98F09",
+    "CountryName": "Colombia"
+  },
+  {
+    "CountryId": "382BFCA7-304F-4BA4-8361-5BF663E5FFF8",
+    "CountryName": "Croatia"
+  },
+  {
+    "CountryId": "C4CF75E9-C4BD-4F88-9A8C-B39793502F33",
+    "CountryName": "Cyprus"
+  },
+  {
+    "CountryId": "606AB180-460F-4D2A-B4BF-260E8D5E07F5",
+    "CountryName": "Czechia"
+  },
+  {
+    "CountryId": "FBE47559-5C93-4F9F-91D7-340238F2CF64",
+    "CountryName": "Aigypt"
+  },
+  {
+    "CountryId": "67E14D87-9021-43EE-A848-0883CA27B5DF",
+    "CountryName": "Finland"
+  },
+  {
+    "CountryId": "A1AE044E-92E6-4B99-819A-D439097546B2",
+    "CountryName": "France"
+  },
+  {
+    "CountryId": "F0258764-2723-408C-8201-1B0AE8ED084C",
+    "CountryName": "Germany"
+  },
+  {
+    "CountryId": "999D162F-90F0-4CD6-B922-AC5F345E7036",
+    "CountryName": "Greece"
+  },
+  {
+    "CountryId": "0CEA258E-BE82-44ED-B673-FC257BF8C7DF",
+    "CountryName": "Hungary"
+  },
+  {
+    "CountryId": "5FF91C1A-0054-4605-8BE3-46F6BC69C02B",
+    "CountryName": "Ireland"
+  },
+  {
+    "CountryId": "9F1837A1-F292-4201-963A-2C51ACAA480B",
+    "CountryName": "Italy"
+  },
+  {
+    "CountryId": "DD251E52-6F3F-4E4B-9BA4-BC1FBB8B3D33",
+    "CountryName": "Luxenburg"
+  },
+  {
+    "CountryId": "B887BCF4-FD45-492B-9FFC-8A1E17352ACB",
+    "CountryName": "Malta"
+  },
+  {
+    "CountryId": "39374B6C-04D0-405C-8BA8-BBDF420D25AE",
+    "CountryName": "Mexico"
+  },
+  {
+    "CountryId": "ABDBD6FA-64CB-415F-ADF0-B2F8B38FB04C",
+    "CountryName": "Monaco"
+  },
+  {
+    "CountryId": "E0C52FAD-C0D8-4EC1-A791-A5EDC4CE9FB2",
+    "CountryName": "Netherlands"
+  },
+  {
+    "CountryId": "792BD91E-1FD0-4D76-B2CF-B41982C3EFBE",
+    "CountryName": "New Zeland"
+  },
+  {
+    "CountryId": "D62A9029-1F35-4D28-960E-D5C2813A1486",
+    "CountryName": "North Macedonia"
+  },
+  {
+    "CountryId": "21CC9DF2-76A4-4C8B-BAD6-826D812509CE",
+    "CountryName": "Poland"
+  },
+  {
+    "CountryId": "F33C50B8-E595-4E25-84B2-A3F6B86CB410",
+    "CountryName": "Portogal"
+  },
+  {
+    "CountryId": "58DB45B9-8B47-4171-8678-B21436ED5A41",
+    "CountryName": "Romania"
+  },
+  {
+    "CountryId": "1705D418-6B17-482D-ABD6-2BF3B2ECE5A4",
+    "CountryName": "Russia"
+  },
+  {
+    "CountryId": "FB154007-565B-4B98-BEDD-9E48338B129D",
+    "CountryName": "Slovakia"
+  },
+  {
+    "CountryId": "01005EC7-121A-4D1F-973D-6BFDEB3B7F56",
+    "CountryName": "Slovenia"
+  },
+  {
+    "CountryId": "6DF7A76C-8F1F-4238-9261-0AF30392D25E",
+    "CountryName": "Spain"
+  },
+  {
+    "CountryId": "09EF2AEE-08F2-454F-A20B-86CEC64530BB",
+    "CountryName": "Sweeden"
+  },
+  {
+    "CountryId": "FB2A83EF-D392-47FD-B0A8-40088AD6BC84",
+    "CountryName": "Turkey"
+  },
+  {
+    "CountryId": "36AAC634-B449-48E8-B4D3-BF3CA905F7FD",
+    "CountryName": "United Kingdom"
+  },
+  {
+    "CountryId": "15A46298-67ED-4DCE-9509-9E3EEB2F4E4C",
+    "CountryName": "Uruguay"
+  },
+  {
+    "CountryId": "A4868117-8AD2-4CF6-971D-62BD0ED3CC92",
+    "CountryName": "Venezuela"
+  }
+]
