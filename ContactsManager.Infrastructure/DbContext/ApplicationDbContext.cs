@@ -17,7 +17,7 @@ namespace Entities
 
 		public ApplicationDbContext(DbContextOptions options) : base(options)
 		{
-			this.Database.Migrate();
+			
 		}
 
 
