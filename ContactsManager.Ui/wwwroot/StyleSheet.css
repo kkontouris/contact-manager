@@ -131,8 +131,10 @@
 
     .table thead {
         font-weight: bold;
-        color: #000000;
         text-align: left;
+        background-color: #7AB2D3;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
         .table thead a:link, .table thead a:visited {
@@ -152,11 +154,14 @@
 
     .table tbody td {
         padding: 6px 10px;
+        background-color: #B9E5E8;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
     .table tbody tr {
         transition: background-color 0.4s, color 0.3s;
-        /*background-color: #efefef;*/
+        background-color: #B9E5E8;
         border-bottom: 1px solid #efefef;
     }
 
@@ -747,7 +752,7 @@ a.button-link:link, a.button-link:visited {
         padding: 30px;
         border-radius: 15px; /* Αυξάνει τη στρογγυλότητα */
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Ελαφριά σκιά για καλύτερη αισθητική */
-        background-color: #B9E5E8; /* Ανοιχτό γκρι */
+        background-color: #B9E5E8; /* Ανοιχτό γαλαζοπράσινο */
     }
    
 
