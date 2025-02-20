@@ -654,7 +654,7 @@ a.button-link:link, a.button-link:visited {
     max-width: 800px; /* Ορίζει μέγιστο πλάτος για μεγαλύτερες οθόνες */
     margin: 20px auto;
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color: #B9E5E8;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -664,6 +664,7 @@ a.button-link:link, a.button-link:visited {
     .form-container {
         padding: 15px;
         margin: 10px; /* Μικρότερο margin για κινητά */
+        background-color: #B9E5E8;
     }
 
         .form-container .form-control {
@@ -746,7 +747,7 @@ a.button-link:link, a.button-link:visited {
         padding: 30px;
         border-radius: 15px; /* Αυξάνει τη στρογγυλότητα */
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Ελαφριά σκιά για καλύτερη αισθητική */
-        background-color: #f8f9fa; /* Ανοιχτό γκρι */
+        background-color: #B9E5E8; /* Ανοιχτό γκρι */
     }
    
 
