@@ -6,8 +6,9 @@
     height: 100vh;
     overflow-x: hidden;
     min-height: 100vh;
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px; /* Στρογγυλεμένες άκρες */
 }
 
 
@@ -22,6 +23,8 @@
     min-width: 500px;
 
 }
+
+
 
 .container {
     background-color: #DFF2EB; /* το χρώμα της φόρμας */
@@ -640,16 +643,37 @@ a.button-link:link, a.button-link:visited {
     max-width: 700px;
 }
 
-.form-container {
-    background-color: #B9E5E8;
-    border-radius: 15px;
-    margin: auto;
-    width: 90%;
-    padding: 0px;
-}
+
 
 .inline-block {
     display: inline-block;
+}
+/* Ορίζουμε το container για το form */
+.form-container {
+    width: 100%;
+    max-width: 800px; /* Ορίζει μέγιστο πλάτος για μεγαλύτερες οθόνες */
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Στιλ για μικρότερες οθόνες (π.χ. κινητά) */
+@media screen and (max-width: 767px) {
+    .form-container {
+        padding: 15px;
+        margin: 10px; /* Μικρότερο margin για κινητά */
+    }
+
+        .form-container .form-control {
+            font-size: 14px; /* Μικρότερο μέγεθος γραμματοσειράς για να χωράει καλύτερα */
+        }
+
+        .form-container button {
+            width: 100%; /* Ορίζει το κουμπί να γεμίζει το πλάτος της φόρμας */
+            padding: 12px;
+        }
 }
 
 @media screen and (min-width: 1000px) {
@@ -694,7 +718,7 @@ a.button-link:link, a.button-link:visited {
     }
 
     .form-field > div {
-        padding: 15px !important;
+        padding: 20px !important;
     }
 
         .form-field > div:first-child {
@@ -719,8 +743,12 @@ a.button-link:link, a.button-link:visited {
 
     .form-container {
         width: 50%;
-        padding: 20px;
+        padding: 30px;
+        border-radius: 15px; /* Αυξάνει τη στρογγυλότητα */
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Ελαφριά σκιά για καλύτερη αισθητική */
+        background-color: #f8f9fa; /* Ανοιχτό γκρι */
     }
+   
 
     .account-links {
         display: inline-block;
