@@ -131,8 +131,8 @@
 
     .table thead {
         font-weight: bold;
-        text-align: left;
-        background-color: #7AB2D3;
+        text-align: center;
+        background-color: #6DC5D1;
         border-radius: 8px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
@@ -659,7 +659,7 @@ a.button-link:link, a.button-link:visited {
     max-width: 800px; /* Ορίζει μέγιστο πλάτος για μεγαλύτερες οθόνες */
     margin: 20px auto;
     padding: 20px;
-    background-color: #B9E5E8;
+    background-color: #6DC5D1;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -669,7 +669,7 @@ a.button-link:link, a.button-link:visited {
     .form-container {
         padding: 15px;
         margin: 10px; /* Μικρότερο margin για κινητά */
-        background-color: #B9E5E8;
+        background-color: #6DC5D1;
     }
 
         .form-container .form-control {
@@ -752,7 +752,7 @@ a.button-link:link, a.button-link:visited {
         padding: 30px;
         border-radius: 15px; /* Αυξάνει τη στρογγυλότητα */
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Ελαφριά σκιά για καλύτερη αισθητική */
-        background-color: #B9E5E8; /* Ανοιχτό γαλαζοπράσινο */
+        background-color: #6DC5D1; /* Ανοιχτό γαλαζοπράσινο */
     }
    
 
